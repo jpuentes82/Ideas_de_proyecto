@@ -1,7 +1,16 @@
 # Ideas_de_proyecto
-1. Aplicación que permita guiar a las mujeres como se debe aplicar el maquillaje, para que sirve cada producto, algunas contra indicaciones, algunos beneficios de productos 
-que los tengan
 2. Aplicación que permita agregar recordatorios de citas medicas, reuniones con amigos, partidos de futbol, entregas de trabajos, 
 que permita recordar unas horas antes, un día antes o un tiempo que el usuario desee que la aplicación le notifique mediante sonidos.
-3. Una aplicacion que permita realizar la comparación entre hoteles de acuerdo a la calificación de los usurios, comentarios, precios, comodidad, atención, disponibilidad
+
+
+mockups
+https://marvelapp.com/prototype/9e9e9da
+
+Funcionalidades 
+Usuario podra registrar uno o varios recordatorios 
+Usuario podra eliminar uno o varios recordatorios 
+Usaurio podra elegir cada cuanto suene la alarma del recordatorio 
+Usuario podra seleccionar si el recordatorio es importante
+Usuario pordra visualizar la cantidad de recordatorios que tiene 
+Cuando el usuario ingrese que es cita medica se marcara de forma automatica el check de importante 
 
