@@ -6,11 +6,11 @@ que permita recordar unas horas antes, un día antes o un tiempo que el usuario 
 mockups
 https://marvelapp.com/prototype/9e9e9da
 
-Funcionalidades 
-Usuario podra registrar uno o varios recordatorios 
-Usuario podra eliminar uno o varios recordatorios 
-Usaurio podra elegir cada cuanto suene la alarma del recordatorio 
-Usuario podra seleccionar si el recordatorio es importante
-Usuario pordra visualizar la cantidad de recordatorios que tiene 
-Cuando el usuario ingrese que es cita medica se marcara de forma automatica el check de importante 
+. Funcionalidades 
+1. Usuario podra registrar uno o varios recordatorios 
+2. Usuario podra eliminar uno o varios recordatorios 
+3. Usaurio podra elegir cada cuanto suene la alarma del recordatorio 
+4. Usuario podra seleccionar si el recordatorio es importante
+5. Usuario pordra visualizar la cantidad de recordatorios que tiene 
+6. Cuando el usuario ingrese que es cita medica se marcara de forma automatica el check de importante 
 
